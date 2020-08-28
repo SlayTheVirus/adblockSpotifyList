@@ -15,3 +15,4 @@
 ||prod.spotify.map.fastlylb.net
 ||sto3.spotify.com
 ||upgrade.spotify.com
+/mp3-ad/*$domain=open.spotify.com
