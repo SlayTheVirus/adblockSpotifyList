@@ -4,15 +4,14 @@
 ! Expires: 7 days
 ! Homepage: https://github.com/SlayTheVirus/adblockSpotifyList
 !
-||adeventtracker.spotify.com/*
-||ads-fa.spotify.com/*
-||analytics.spotify.com/*
-||audio-ec.spotify.com/*
-||audio2.spotify.com/*
-||crashdump.spotify.com/*
-||heads-ec.spotify.com/*
-||log.spotify.com/*
-||prod.spotify.map.fastlylb.net/*
-||spclient.wg.spotify.com/*
-||sto3.spotify.com/*
-||www.audio2.spotify.com/*
+||audio2.spotify.com
+||crashdump.spotify.com
+||adeventtracker.spotify.com
+||log.spotify.com
+||analytics.spotify.com
+||ads-fa.spotify.com
+||audio-ec.spotify.com
+||heads-ec.spotify.com
+||prod.spotify.map.fastlylb.net
+||sto3.spotify.com
+||upgrade.spotify.com
